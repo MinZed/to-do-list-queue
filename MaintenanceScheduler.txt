@@ -1,0 +1,55 @@
+active jobs
+received 205 14 maintenance
+statistics
+details 205
+next job
+received 124 33 carpentry
+next job
+statistics
+received 452 1 cleaning
+active jobs
+sleep 4
+respond
+received 134 24 maintenance
+next job
+details 134
+statistics
+sleep 2
+respond
+active jobs
+modify 134 12 cleaning
+statistics
+next job
+details 134
+sleep 2
+respond
+active jobs
+statistics
+remove 205
+next job
+received 421 16 carpentry
+active jobs
+received 231 29 cleaning
+sleep 3
+active jobs
+received 666 29 maintenance
+details 666
+active jobs
+respond
+statistics
+modify 205 11 cleaning
+next job
+respond
+remove 231
+received 452 22 maintenance
+details 452
+respond
+statistics
+next job
+remove 134
+active jobs
+statistics
+remove 666
+respond
+statistics
+active jobs
