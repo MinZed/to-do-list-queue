@@ -11,6 +11,15 @@ def linearSearch(queue, idx):
     return allElements
 
 
+
+
+def linearSearch2(queue, idx):
+    allElements = []
+    for i in range(size(queue)):
+        allElements.append(queue[i][idx])
+    return allElements
+
+
 def createNewTask(rawJob, queue):
     now = datetime.now()
     timestamp = datetime.timestamp(now)
